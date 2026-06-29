@@ -1,4 +1,4 @@
-# 
+# 开源 Adobe Illustrator 效果 Mac OS版 | 自定义 Adobe Illustrator 效果 PC Windows版。集成 目录 和 运动路径，跨平台性能最大化。
 
 
 
